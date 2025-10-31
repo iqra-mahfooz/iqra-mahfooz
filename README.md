@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Iqra Mahfooz
 
-<!--
-**iqra-mahfooz/iqra-mahfooz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computational Physics Graduate** from the University of the Punjab, Pakistan  
+💻 Currently exploring **web development** and how technology can be used creatively to solve real-world problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- Learning **HTML, CSS, JavaScript, and React**  
+- Building small, practical web projects to strengthen my skills  
+- Exploring **Python** for data handling and automation  
+- Growing my online presence through **GitHub** and **LinkedIn**
+
+---
+
+### 🧠 Interests
+- Web Development  
+- Data Visualization  
+- Problem Solving through Code  
+- Clean Design & User Experience  
+
+---
+
+### 🌱 Goals
+- Build a strong portfolio through consistent practice and projects  
+- Learn collaboratively and contribute to open-source communities  
+- Keep growing as a learner, developer, and creative thinker  
+
+---
+
+📫 **Let’s Connect:**  
+[LinkedIn](https://www.linkedin.com/in/iqra-mahfooz) | [GitHub](https://github.com/iqra-mahfooz)
