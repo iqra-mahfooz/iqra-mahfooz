@@ -43,9 +43,10 @@ I am currently working toward research opportunities in computational and theore
 | Project | Description | Stack |
 |---|---|---|
 | [**Feynman Diagram Builder**](https://github.com/iqra-mahfooz) | Interactive tool for constructing and visualizing Feynman diagrams for particle interactions | JavaScript, HTML, CSS |
-| [**HEP Simulator**](https://github.com/iqra-mahfooz) | High energy physics simulation tool exploring particle decay and interaction models | JavaScript |
+| [**HEP Simulator**](https://github.com/iqra-mahfooz/hep-simulator) | High energy physics simulation tool exploring particle decay and interaction models | JavaScript |
 | [**Atmosphere**](https://github.com/iqra-mahfooz/atmosphere) | Mood-based weather dashboard using real-time meteorological data via OpenWeather API | React, TypeScript |
 | [**Flowday**](https://github.com/iqra-mahfooz/flowday) | Full-stack productivity application with task management and focus timer | React, TypeScript, Supabase |
+| [**Personal Portfolio**](https://github.com/iqra-mahfooz/personal-portfolio) | Responsive personal portfolio website showcasing projects and skills | TypeScript |
 
 ---
 
@@ -59,6 +60,23 @@ I am currently working toward research opportunities in computational and theore
 
 **Tools**
 `Git` `GitHub` `VS Code`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iqra-mahfooz&show_icons=true&theme=tokyonight&hide_border=true&title_color=4a90b8&icon_color=4a90b8&text_color=ffffff&bg_color=0d1117" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqra-mahfooz&layout=compact&theme=tokyonight&hide_border=true&title_color=4a90b8&text_color=ffffff&bg_color=0d1117" height="165">
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iqra-mahfooz&theme=tokyonight&hide_border=true&ring=4a90b8&fire=4a90b8&currStreakLabel=4a90b8)](https://github.com/iqra-mahfooz)
+
+</div>
 
 ---
 
@@ -80,7 +98,7 @@ I am currently working toward research opportunities in computational and theore
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=iqra-mahfooz&label=Profile+Views&color=0077B5&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=iqra-mahfooz&label=Profile+Views&color=4a90b8&style=flat)
 
 *"The important thing is not to stop questioning." — Albert Einstein*
 
