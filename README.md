@@ -177,7 +177,7 @@ fun_fact: "I think in wave functions and dream in React components 💭"
   <img alt="github-snake" src="https://raw.githubusercontent.com/iqra-mahfooz/iqra-mahfooz/output/github-snake-dark.svg" />
 </picture>
 
-> 💡 *Set up [snk](https://github.com/Platane/snk) GitHub Action in your profile repo to generate this!*
+<!-- 💡 *Set up [snk](https://github.com/Platane/snk) GitHub Action in your profile repo to generate this!*-->
 
 </div>
 
