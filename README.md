@@ -84,34 +84,23 @@ fun_fact: "I think in wave functions and dream in React components 💭"
 <!-- Rainbow Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🛠️ Projects
 
-<div align="center">
-
-<a href="https://github.com/iqra-mahfooz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqra-mahfooz&repo=feynman-diagram-builder&theme=tokyonight&hide_border=true&border_radius=15&bg_color=1a1b27&icon_color=f7a8d8&title_color=f7a8d8" />
-</a>
-<a href="https://github.com/iqra-mahfooz/hep-simulator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqra-mahfooz&repo=hep-simulator&theme=tokyonight&hide_border=true&border_radius=15&bg_color=1a1b27&icon_color=f7a8d8&title_color=f7a8d8" />
-</a>
-<a href="https://github.com/iqra-mahfooz/atmosphere">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqra-mahfooz&repo=atmosphere&theme=tokyonight&hide_border=true&border_radius=15&bg_color=1a1b27&icon_color=f7a8d8&title_color=f7a8d8" />
-</a>
-<a href="https://github.com/iqra-mahfooz/flowday">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqra-mahfooz&repo=flowday&theme=tokyonight&hide_border=true&border_radius=15&bg_color=1a1b27&icon_color=f7a8d8&title_color=f7a8d8" />
-</a>
-
-</div>
 
 ### ✨ Project Highlights
 
+
+
+<div align="center">
+
 | 🎨 | Project | Description | Stack |
 |:---:|:---|:---|:---|
-| ⚛️ | [**Feynman Diagram Builder**](https://github.com/iqra-mahfooz) | Interactive Feynman diagram visualizer | `JavaScript` `HTML` `CSS` |
-| 💥 | [**HEP Simulator**](https://github.com/iqra-mahfooz/hep-simulator) | Particle decay & interaction simulator | `JavaScript` |
-| 🌤️ | [**Atmosphere**](https://github.com/iqra-mahfooz/atmosphere) | Mood-based weather dashboard | `React` `TypeScript` |
-| 📋 | [**Flowday**](https://github.com/iqra-mahfooz/flowday) | Full-stack productivity app | `React` `TypeScript` `Supabase` |
-| 🌐 | [**Portfolio**](https://github.com/iqra-mahfooz/personal-portfolio) | Responsive personal portfolio | `TypeScript` |
+| ⚛️ | [**Feynman Diagram Builder**](https://github.com/iqra-mahfooz) | Interactive tool for constructing & visualizing Feynman diagrams for particle interactions | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 💥 | [**HEP Simulator**](https://github.com/iqra-mahfooz/hep-simulator) | High energy physics simulation exploring particle decay & interaction models | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🌤️ | [**Atmosphere**](https://github.com/iqra-mahfooz/atmosphere) | Mood-based weather dashboard using real-time meteorological data | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| 📋 | [**Flowday**](https://github.com/iqra-mahfooz/flowday) | Full-stack productivity app with task management & focus timer | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| 🌐 | [**Portfolio**](https://github.com/iqra-mahfooz/personal-portfolio) | Responsive personal portfolio website | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+
+</div>
 
 <!-- Rainbow Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
