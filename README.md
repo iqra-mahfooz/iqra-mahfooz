@@ -39,7 +39,8 @@ current_mood: "Debugging the universe, one equation at a time 🔭"
 fun_fact: "I think in wave functions and dream in React components 💭"
 ```
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px">
+<img align="right" src="https://github.com/user-attachments/assets/00f02d9a-f854-4f68-bc06-8af7bd8ffe17">
+
 
 ### 🧬 Who am I?
 
