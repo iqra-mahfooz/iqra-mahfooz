@@ -60,7 +60,7 @@ fun_fact: "I think in wave functions and dream in React components 💭"
 ## 🔬 Research & Academic Work
 
 <div align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200px">
+<img src="https://github.com/user-attachments/assets/dc661b67-7f0f-4769-be51-d029cd300e89" width="900px">
 </div>
 
 ### 📜 Thesis Concept — *Pendulum Fusion: A Paradox Beyond the Clock*
