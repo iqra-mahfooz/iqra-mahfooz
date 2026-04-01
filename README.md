@@ -4,11 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Iqra%20✨&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Welcome%20to%20my%20little%20corner%20of%20the%20internet%20🌸&descAlignY=52&descSize=16" width="100%" />
 
 <!-- Cute Animated Wave GIF -->
-![Image](https://github.com/user-attachments/assets/b80bf76e-71c4-4e9e-afaa-0b5cc67d4d1b)
+![Image](https://github.com/user-attachments/assets/fd7fd5f7-c9a9-492b-b466-ca14890c56d4)
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A8D8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%AD+Computational+Physicist;%F0%9F%92%BB+Frontend+Developer;%F0%9F%8C%8C+Aspiring+Researcher;%E2%9C%A8+Turning+Physics+into+Pixels" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A8D8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%F0%9F%94%AD+Computational+Physicist;%F0%9F%92%BB+Frontend+Developer;%F0%9F%8C%8C+Aspiring+Researcher;%E2%9C%A8+Turning+Physics+into+Pixels" alt="Typing SVG" />
 </a>
 
 <!-- Social Badges with cute colors -->
