@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Iqra%20✨&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Welcome%20to%20my%20little%20corner%20of%20the%20internet%20🌸&descAlignY=52&descSize=16" width="100%" />
 
 <!-- Cute Animated Wave GIF -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+![Image](https://github.com/user-attachments/assets/b80bf76e-71c4-4e9e-afaa-0b5cc67d4d1b)
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
